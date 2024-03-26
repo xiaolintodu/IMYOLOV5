@@ -1,4 +1,4 @@
-path: D:\jinxData\TT100K\data\dataset\rett100k
+path: /kaggle/input/rett100k/rett100k
 train: images/train
 val: images/val
 test: images/test
